@@ -159,7 +159,7 @@ h3 {
 
 
 #problems {
-    margin-top: 2%;
+    margin: 2% auto;
     display: grid;
     grid-template-columns: 30vw 30vw;
     gap: 5%;
